@@ -1,0 +1,28 @@
+How to play:
+
+Select 1 Player, 2 Players, or Time Trial
+
+1 Player: Work against the clock to answer as many questions correctly as possible in 60 seconds.
+
+2 Players: Compete against a friend and see who can get more questions correct in 60 seconds.
+
+Time Trial: Race to see how fast you can get 10 questions correct!
+
+
+Select Mode 1 or Mode 2
+
+Mode 1: You are given a word and multiple definitions. Choose the definition that matches the word.
+
+Mode 2: You are given a definition and multiple words. Choose the word that matches the definition.
+
+
+Select Difficulty
+
+Easy: You are given 3 answer choices.
+
+Medium: You are given 4 answer choices.
+
+Hard: You are given 5 answer choices. 
+
+
+Exit the game at any point by clicking on the X in the upper right hand corner.
